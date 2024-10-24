@@ -1,5 +1,5 @@
 # Gift-Wallpaper
-## [+] How to set a gif as wallpaper only with feh an imagemagick?
+## How to set a gif as wallpaper only with feh an imagemagick?
 
 In this git I will explain how we can set a gif as a wallpaper using feh. We can do this by splitting the gif frame by frame and then using a script to change the background every 0.1 seconds.
 We need have instaled imagemagick and feh. If you dont have it installed youu can download it with ```sudo apt install imagemagick feh```(in debian/ubuntu).
